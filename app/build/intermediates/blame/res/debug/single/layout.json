@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/keyboard_default_main.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/keyboard_default_main.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/keyboard_metal.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/keyboard_metal.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header_ja.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_list_header_ja.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/keyboard_default_sub.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/keyboard_default_sub.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_list.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/candidates.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/candidates.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_edit_header.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_edit_header.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header_zhcn.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_list_header_zhcn.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/keyboard_android_default.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/keyboard_android_default.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/bubble_text.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/bubble_text.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_simple_decor.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/candidate_scale_up.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/candidate_scale_up.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_list_header.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_list_header.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/activity_input_view.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/activity_input_view.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/keyboard_simple.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/keyboard_simple.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/user_dictionary_tools_edit.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/src/main/res/layout/user_dictionary_tools_edit.xml"
+    },
+    {
+        "merged": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_include.xml"
+    }
+]

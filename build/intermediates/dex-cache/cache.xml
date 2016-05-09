@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_88602333194cf85d0bc37630a0da63bd836cfd9c.jar" />
+    </item>
+    <item
+        jar="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_6a135f3d7feead0e0d2558e1f31f12264be840a2.jar" />
+    </item>
+    <item
+        jar="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.0_933e6e0d66cec26c1f2d2e10017ea18d11104e82.jar" />
+    </item>
+    <item
+        jar="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-19.1.0_ff7f55dcba9de6574148d14507b1e16ca1fe457d.jar" />
+    </item>
+    <item
+        jar="/Users/lvhonghe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_e606885f11df19c8c0b0e9596ef7442419af1ff7.jar" />
+    </item>
+    <item
+        jar="/Users/lvhonghe/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/lvhonghe/project/ethank/ethank/trunk/client/androidLib/demo_line/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_64b3139a078212f67a45cefa2e6a884fc9a17a5f.jar" />
+    </item>
+
+</items>
